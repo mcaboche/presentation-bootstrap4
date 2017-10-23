@@ -1,8 +1,8 @@
 # TP
 
-![Preview](/ressources/preview.png)
+![Preview](/presentation-bootstrap4/ressources/preview.png)
 
 
 # Ressources utiles :
-- sources : https://github.com/mcaboche/presentation-html5
-- live : https://mcaboche.github.io/presentation-html5/
+- sources : https://github.com/mcaboche/presentation-bootstrap4
+- live : https://mcaboche.github.io/presentation-bootstrap4
